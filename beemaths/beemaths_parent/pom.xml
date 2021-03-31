@@ -52,7 +52,7 @@
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
         <mapstruct.version>1.2.0.Final</mapstruct.version>
         <projectlombok.version>1.18.4</projectlombok.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
 
         <!-- Plugin versions -->
         <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
